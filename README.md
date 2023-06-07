@@ -1,4 +1,4 @@
-# Music-Player (HTML | CSS | JavaScript) [![Share on Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Turn%20Sublime%20Text%203%20into%20a%20JavaScript%20IDE%20&url=https://github.com/yashk9293/Music-Player&hashtags=javascript,ide,plugin,sublimetext3,editor) [![Share on Facebook](https://img.shields.io/badge/share-facebook-blue.svg?longCache=true&style=flat&colorB=%234267b2)](hhttp://www.facebook.com/sharer.php?u=https://github.com/yashk9293/Music-Player)
+# Ultimate-Music-Player [![Share on Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Turn%20Sublime%20Text%203%20into%20a%20JavaScript%20IDE%20&url=https://github.com/yashk9293/Music-Player&hashtags=javascript,ide,plugin,sublimetext3,editor) [![Share on Facebook](https://img.shields.io/badge/share-facebook-blue.svg?longCache=true&style=flat&colorB=%234267b2)](hhttp://www.facebook.com/sharer.php?u=https://github.com/yashk9293/Music-Player)
 
 <div align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
