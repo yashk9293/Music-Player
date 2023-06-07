@@ -15,7 +15,7 @@
 - next song button
 - previous song button
 <p>
-    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/prev_playpause_next.jpg"><img src="./readme_img/prev_playpause_next.jpg" alt="prev_play_next"></a>
+    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/prev_playpause_next.jpg"><img src="./readme_img/prev_playpause_next.jpg" alt="prev_playpause_next"></a>
 </p>
 
 #### Display Feature :
@@ -23,7 +23,7 @@
 - music image is rotating when music is playing, if the song is paused then image rotation is stopped and it comes back to original position.
 <div>
     <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/sound bars.jpg"><img src="./readme_img/sound bars.jpg" alt="prev_play_next" title="sound bars"></a>
-    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/image-rotation360.gif"><img src="./readme_img/image-rotation360.gif" alt="prev_play_next"></a>
+    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/image-rotation360.gif"><img src="./readme_img/image-rotation360.gif" alt="rotation360"></a>
 </div>
 
 #### Other functionality :
@@ -39,6 +39,9 @@
 - Upon clicking any song on the list itself, the song will start playing.
 - the song is which is being currently played will be displayed as now playing.
 - every time you open the website, random song is played.
+<p>
+    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/music-list.png"><img src="./readme_img/music-list.png" alt="music-list" height="600"></a>
+</p>
 
 ### Built With - 
 <div>
