@@ -66,6 +66,8 @@ Windows:
 ```bash
 git clone https://github.com/yashk9293/Music-Player.git
 ```
+<br>
+
 **📌NOTE** : If you want to add more songs, then you just need to add songs in the **songs folder** and add images of the musics in **images folder**, then add list item in the list of **music-list.js** file. That's all, nothing to do more.
 
 ## LICENSE
