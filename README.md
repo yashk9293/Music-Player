@@ -66,3 +66,6 @@ Windows:
 ```bash
 git clone https://github.com/yashk9293/Music-Player.git
 ```
+## LICENSE
+
+[MIT License](LICENSE)
