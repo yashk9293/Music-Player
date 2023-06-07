@@ -40,7 +40,7 @@
 - the song is which is being currently played will be displayed as now playing.
 - every time you open the website, random song is played.
 <p>
-    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/music-list.png"><img src="./readme_img/music-list.png" alt="music-list" height="600"></a>
+    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/music-list.png"><img src="./readme_img/music-list.png" alt="music-list"></a>
 </p>
 
 ### Built With - 
