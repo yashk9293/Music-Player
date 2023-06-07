@@ -5,21 +5,34 @@
 - repeat mode -> playlist looped
 - repeat-one mode -> song looped
 - shuffle mode -> playback shuffled
+<p>
+    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/mode.jpg"><img src="./readme_img/mode.jpg" alt="mode_img"></a>
+</p>
 
 #### Buttons :
 - play button
 - pause button
 - next song button
 - previous song button
+<p>
+    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/prev_playpause_next.jpg"><img src="./readme_img/prev_playpause_next.jpg" alt="prev_play_next"></a>
+</p>
 
 #### Display Feature :
-- line bars are displayed only when song is playing, if the song is paused the bars will disappear.
+- sound line bars are displayed only when song is playing, if the song is paused the bars will disappear.
 - music image is rotating when music is playing, if the song is paused then image rotation is stopped and it comes back to original position.
+<div>
+    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/sound bars.jpg"><img src="./readme_img/sound bars.jpg" alt="prev_play_next" title="sound bars"></a>
+    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/image-rotation360.gif"><img src="./readme_img/image-rotation360.gif" alt="prev_play_next"></a>
+</div>
 
 #### Other functionality :
 - progressive drag progress bar on song timeline.
 - sound range slider
 - current time of the song is updated per second.
+<p>
+    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/drag range slider.jpg"><img src="./readme_img/drag range slider.jpg" alt="slider_img"></a>
+</p>
 
 #### Additional Feature :
 - Music list available containing the list of songs with the artist name and duration of the song.
