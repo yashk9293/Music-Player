@@ -15,15 +15,15 @@
 - next song button
 - previous song button
 <p>
-    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/prev_playpause_next.jpg"><img src="./readme_img/prev_playpause_next.jpg" alt="prev_playpause_next"></a>
+    <img src="./readme_img/prev_playpause_next.jpg" alt="prev_playpause_next">
 </p>
 
 #### Display Feature :
 - sound line bars are displayed only when song is playing, if the song is paused the bars will disappear.
 - music image is rotating when music is playing, if the song is paused then image rotation is stopped and it comes back to original position.
 <div>
-    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/sound bars.jpg"><img src="./readme_img/sound bars.jpg" alt="prev_play_next" title="sound bars"></a>
-    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/image-rotation360.gif"><img src="./readme_img/image-rotation360.gif" alt="rotation360"></a>
+    <img src="./readme_img/sound bars.jpg" alt="prev_play_next" title="sound bars">
+    <img src="./readme_img/image-rotation360.gif" alt="rotation360">
 </div>
 
 #### Other functionality :
