@@ -2,7 +2,7 @@
 
 ## Screenshot
 <p>
-    <a href="https://youtu.be/lcMNFBXV2d4"><img src="./readme_img/preview.png" alt="music-list"></a>
+    <a href="https://youtu.be/lcMNFBXV2d4" target="_blank"><img src="./readme_img/preview.png" alt="music-list"></a>
 </p>
 
 ## Functions :
