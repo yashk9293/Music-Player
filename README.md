@@ -6,7 +6,7 @@
 - repeat-one mode -> song looped
 - shuffle mode -> playback shuffled
 <p>
-    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/mode.jpg"><img src="./readme_img/mode.jpg" alt="mode_img"></a>
+    <img src="./readme_img/mode.jpg" alt="mode_img">
 </p>
 
 #### Buttons :
