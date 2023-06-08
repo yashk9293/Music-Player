@@ -1,5 +1,10 @@
 # Ultimate-Music-Player [![Share on Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Turn%20Sublime%20Text%203%20into%20a%20JavaScript%20IDE%20&url=https://github.com/yashk9293/Music-Player&hashtags=javascript,ide,plugin,sublimetext3,editor) [![Share on Facebook](https://img.shields.io/badge/share-facebook-blue.svg?longCache=true&style=flat&colorB=%234267b2)](hhttp://www.facebook.com/sharer.php?u=https://github.com/yashk9293/Music-Player)
 
+## Screenshot
+<p>
+    <a href="https://youtu.be/lcMNFBXV2d4"><img src="./readme_img/preview.png" alt="music-list"></a>
+</p>
+
 ## Functions :
 #### Modes :
 - repeat mode -> playlist looped
